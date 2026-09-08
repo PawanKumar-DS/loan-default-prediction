@@ -1,0 +1,17 @@
+# Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Streamlit cache
+
+.streamlit/
+
+# Temporary files
+
+*.tmp
+*.log
